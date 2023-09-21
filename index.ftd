@@ -1,3 +1,4 @@
+
 -- import: fastnui.trizwit.com/UI-Components/Header/header-5 as navbar
 -- import: fastnui.trizwit.com/UI-Components/Hero/hero-1 
 -- import: Anuja200325.github.io/fastnfoliotemp/lib
@@ -14,7 +15,7 @@ cta-text-1-url: index.html
 cta-text-2-url: index.html
 cta-text-3-url: index.html
 
--- hero-1.hero-1: I'm Anujaa
+-- hero-1.hero-1: I'm Anujajohn
 
 cta-button-1: Resume
 link-1: https://www.resume.com/
